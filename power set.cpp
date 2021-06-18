@@ -20,12 +20,6 @@
 
 //TC = O(n*2^n)
 
-
-//Issue:
-//TC kaise aayi nhi samzi
-//get more efficient solution
-//modify it fortaking dynamic input
-
 #include<iostream>
 #include<cmath>     //to use pow()
 
